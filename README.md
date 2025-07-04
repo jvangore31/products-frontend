@@ -18,18 +18,18 @@ Make sure your Spring Boot backend is running on:
 
 1.  Clone this repo:
 
-- git clone https://github.com/jvangore31/products-frontend.git
-- cd products-frontend
+    - git clone https://github.com/jvangore31/products-frontend.git
+    - cd products-frontend
 
 2. Install dependencies:
 
-- npm install
+    - npm install
 
 3. Start the development server:
 
-- npm run dev
+    - npm run dev
 
 Then open your browser at:
 
-- http://localhost:5173
+    - http://localhost:5173
 
