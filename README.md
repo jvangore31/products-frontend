@@ -10,7 +10,7 @@ A simple React app that displays products fetched from a Spring Boot backend.
 
 Make sure your Spring Boot backend is running on:
 
- - http://localhost:5173/api/products
+ - http://localhost:8080/api/products
 
 ---
 
